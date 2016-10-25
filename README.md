@@ -8,4 +8,14 @@ I am not a Web Developer, therefore this will probably be poorly coded, but i am
 
 In my free time i try to get the best out of it, will start developing a mobile app for my Youtube Channel as well. I am a Mobile Developer so that will probably be better coded.
 
-* I will update this File as anything important happens * 
+***Future Plans:***
+
+* Add a Mobile App to offer site's functionality with extras
+* Develop an Extension for Browsers to notify user of a stream or a new youtube video
+* Develop Site to Extend Functionality further.(maybe add "blog" functionality)
+
+
+
+
+
+* I will update this File as anything important happens
