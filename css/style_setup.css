@@ -15,9 +15,19 @@ div {
       background-color: #CCC;
       opacity: 0.8; }
 
+.dropdown {
+      width: 100
+}
+.dropbtn {
+      width: 100
+}
+.dropdown-content {
+      width: 100
+}
+
 
 div#logo { border-style: solid;
-           height: 700px; }
+           height: 1200px; }
 
 
 p { font-family: monospace; }
