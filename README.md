@@ -11,6 +11,9 @@ In my free time i try to get the best out of it, will start developing a mobile 
 ***Future Plans:***
 
 * Add a Mobile App to offer site's functionality with extras
+* Include Javascript into the Site
+* Improve Code Readibility - currently it is a mess
+* Reduce File size for Graphical Images‚¡
 * Develop an Extension for Browsers to notify user of a stream or a new youtube video
 * Develop Site to Extend Functionality further.(maybe add "blog" functionality)
 
