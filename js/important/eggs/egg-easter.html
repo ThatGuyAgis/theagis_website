@@ -2,9 +2,19 @@
 
 <html>
   <body>
-    <h1>A hidden easter egg</h1>
-    <p id="test_string">Testowe zdanie.</p>
-    <button type="button" onclick="testFunction()">Click me!</button>
-    <script> src="js/testFunction.js"</script>
+    <center><p id="test_string"> </center></p>
+    <center><button type="button" onclick="testFunction()">Click me!</center></button>
+    <script>
+    function testFunction() {
+      document.getElementById("test_string").innerHTML = "You've discovered an Easter Egg!";
+    }
+    </script>
+
+
+    <footer>
+
+      <h3><center><a href="https://theagis.com/index">Wroc do Strony Glownej</h3></center></a>
+
+    </footer>
   </body>
 </html>
