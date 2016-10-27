@@ -12,8 +12,32 @@
     cursor: pointer;
   }
 
-  .dropbtn {
+  .dropdown {
     position: relative;
+    display: inline-block;
+  }
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 16px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2)
+  }
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+
+  }
+  .dropdown-content a:hover {
+    background-color: #f1f1f1;
+  }
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  .display:hover .dropbtn {
+    background-color: #3e8e41;
   }
 
 </style>
@@ -21,6 +45,12 @@
 
 
 <body>
+<div class="dropdown">
+  <button class="dropbtn">Menu</button>
+  <div class="dropdown-content">
+    <a href="https://theagis.com">Homepage</a>
+    <a href="https://theagis.com/faq">F.A.Q</a>
+    <a href="https://theagis.com/donate">Dotacje</a>
   <h1>Strona w budowie!</h1>
   <h2>Site under construction<h2>
   <br>
