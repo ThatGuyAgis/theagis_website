@@ -1,0 +1,13 @@
+<!--Menu-->
+<ul id="nav">
+  <li class="navLogo"><a><img src="img/agis-logo.png" width="50px" height="50px"/></a></li>
+  <li><a data-scroll href="#status">Stream</a></li>
+  <li><a data-scroll href="#setup">Setup</a></li>
+  <li><a data-scroll href="#donation">Donation</a></li>
+  <li><a data-scroll href="#faq">FAQ</a></li>
+
+  <!--Social Buttons-->
+  <li class="dis"><a href="https://discord.gg/agis" target="_blank"><img src="img/discord.png" width="24px" height="24px"></a></li>
+  <li class="fb"><a href="http://grupafacebook.theagis.com/" target="_blank"><img src="img/facebook.svg" width="18px" height="18px"></a></li>
+  <li class="yt"><a href="https://www.youtube.com/channel/UCe6xBtCXn46MedogNN01Apw" target="_blank"><img src="img/youtube.svg" width="18px" height="18px"></a></li>
+</ul>
